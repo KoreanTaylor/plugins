@@ -8,7 +8,7 @@ import java.awt.event.KeyEvent;
 public interface PkToolsConfig extends Config
 {
 	String commands = "protectitem, rigour, augury, piety, " +
-		"incrediblereflexes, ultimatestrength, steelskin, hawkeyeeye, mysticmight, " +
+		"incrediblereflexes, ultimatestrength, steelskin, hawkeye, mysticmight, " +
 		"freeze, vengeance, teleblock, entangle, spec, wait, group#, id_#, " +
 		"protectfrommagic, protectfrommissiles, protectfrommelee";
 
